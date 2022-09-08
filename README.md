@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MEAN Stack Developer
 --------------------
 
-I am an athlete at heart, and have a passion for coding. I working as a MEAN stack developer, Building different applications.
+I am an athlete at heart, and have a passion for coding. I am working as a MEAN stack developer, Building different applications.
 
 * ✉️  You can contact me at [vinaychoudhary994@gmail.com](mailto:vinaychoudhary994@gmail.com)
 
