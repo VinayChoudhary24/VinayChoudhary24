@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Choudhary
 =======================================================================================================================================
 
-Software Engineer
+Software Developer
 ------------------
 
 I am an athlete at heart, and have a passion for coding. I am working as a MEAN/MERN stack developer, Building different applications. I love to create and work on different Projects. Work efficiency team based as well as self-managed.
