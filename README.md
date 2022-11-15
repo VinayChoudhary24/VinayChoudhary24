@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------
 
-I am an athlete at heart, and have a passion for coding. I am working as a MEAN/MERN stack developer, Building different applications. I love to create and work on different Projects. Work efficiency team based as well as self-managed.
+I am an athlete at heart, and have a passion for coding. I am working as a Jr. Software Engineer, Building different applications. I love to create and work on different Projects. Work efficiency team based as well as self-managed.
 
 * 🖥️  See my portfolio at [Vercel](http://vinay-choudhary-portfolio-nextjs.vercel.app/)
 * ✉️  You can contact me at [vinaychoudhary994@gmail.com](mailto:vinaychoudhary994@gmail.com)
