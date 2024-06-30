@@ -4,10 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------
 
-I am an athlete at heart, and have a passion for coding. I am working as a Jr. Software Engineer, Building different applications. I love to create and work on different Projects. Work efficiency team based as well as self-managed
+Results-driven Full-Stack Developer passionate about crafting exceptional user interfaces
+and robust back-end systems. Proven ability to thrive in both collaborative and independent 
+roles. Currently managing two Products: eatOS, Dashboard designed for comprehensive 
+restaurant management and ordersOS, an innovative platform for streamlined online ordering 
+and delivery services.
 
 * 🖥️  See my portfolio at [Vercel](http://vinay-choudhary-portfolio-nextjs.vercel.app/)
-* ✉️  You can contact me at [vinaychoudhary994@gmail.com](mailto:vinaychoudhary994@gmail.com)
+* ✉️  You can contact me at [vinaychoudhary2401@gmail.com](mailto:vinaychoudhary2401@gmail.com)
 
 ### Skills
 
