@@ -7,9 +7,10 @@ Full Stack Developer
 Results-driven Full-Stack Developer passionate about crafting exceptional user interfaces and robust back-end systems.
 Proven ability to thrive in both collaborative and independent roles. Currently managing two Products: eatOS, a Dashboard
 designed for comprehensive restaurant management, and ordersOS, an innovative platform for streamlined online ordering
+
 and delivery services.
 
-* 🖥️  See my portfolio at [Vercel](https://vinay-choudhary-portfolio-nextjs.vercel.app/)
+* 🖥️  See my portfolio at [Vercel](https://vinay-choudhary.vercel.app/)
 * ✉️  You can contact me at [vinaychoudhary2401@gmail.com](mailto:vinaychoudhary2401@gmail.com)
 
 ### Skills
