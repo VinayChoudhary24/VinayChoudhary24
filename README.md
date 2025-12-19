@@ -8,7 +8,6 @@
     Results-driven Full-Stack Developer passionate about crafting exceptional user interfaces and robust back-end systems.
     Proven ability to thrive in both collaborative and independent roles.
   </p>
-  ---
 
   [![](https://img.shields.io/badge/Portfolio-Visit%20Site-22c55e?style=for-the-badge&logo=vercel)](https://vinay-choudhary.vercel.app/)
   [![](https://img.shields.io/badge/Email-Contact%20Me-ef4444?style=for-the-badge&logo=gmail)](mailto:vinaychoudhary2401@gmail.com)
@@ -63,5 +62,6 @@
   <a href="http://www.instagram.com/leave_some_mark" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/vinay-choudhary-9661121a1" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </div>
+
 
 
